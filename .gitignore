@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code / Cursor settings
+.vscode/
+.cursor/
+
+# Logs
+*.log
