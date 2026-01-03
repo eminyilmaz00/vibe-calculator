@@ -22,7 +22,7 @@ This project explores the capabilities of AI-powered "vibe coding" tools. It fea
 ## Installation & Setup
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/vibe-calculator.git](https://github.com/YOUR_USERNAME/vibe-calculator.git)
+    git clone https://github.com/eminyilmaz00/vibe-calculator.git
     ```
 2.  Navigate to the project folder:
     ```bash
@@ -34,12 +34,11 @@ This project explores the capabilities of AI-powered "vibe coding" tools. It fea
 * Simply double-click `index.html` to run it locally.
 * For the best development experience, use the "Live Server" extension in VS Code/Cursor.
 
-## Credits and Acknowledgments
-* **Design Inspiration:** Google Search Calculator & Physical Scientific Calculators.
-* **Tooling:** Built with [Cursor](https://cursor.com/) and the Claude 3.5 Sonnet model.
-* **Course:** MIS2003 - Homework Assignment 6-7.
+## 🐳 Docker Deployment
 
-## Experience Documentation
-For a detailed breakdown of the development process, challenges (including the "Regression Bug"), and tool analysis, please read:
-* [EXPERIENCE.md](./EXPERIENCE.md) - My personal reflection and process.
-* [ANALYSIS.md](./ANALYSIS.md) - Comparative analysis of Vibe Coding tools.
+You can run this project in a container using Docker.
+
+### 1. Build the Image
+Run this command in the project directory:
+```bash
+docker build -t vibe-calculator .
