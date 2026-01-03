@@ -17,13 +17,14 @@ This project explores the capabilities of AI-powered *vibe coding* tools. It fea
 
 ## Technologies Used
 
-- HTML5  
-- CSS3 (Grid & Flexbox)  
-- JavaScript (ES6)  
+- HTML5
+- CSS3 (Grid & Flexbox)
+- JavaScript (ES6)
 - **Vibe Tool:** Cursor (AI Composer)
 
 ## Installation & Setup
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vibe-calculator.git
+   git clone [https://github.com/eminyilmaz00/vibe-calculator.git](https://github.com/eminyilmaz00/vibe-calculator.git)
